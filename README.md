@@ -1,2 +1,2 @@
 # Test
-This is test.
+This is my first test for git .
